@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60386877669",
+    "firebase_url": "https://logall-scs.firebaseio.com",
+    "project_id": "logall-scs",
+    "storage_bucket": "logall-scs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60386877669:android:2e4f21d21cc796a807b40c",
+        "android_client_info": {
+          "package_name": "br.com.rootcom.loggalscs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60386877669-rv5kkh12e852qs0eje7hquu9p4uipg8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuygk6lCo9cRTG-yHgCDaeVJIDEN5WTLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60386877669-rv5kkh12e852qs0eje7hquu9p4uipg8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
